@@ -1,7 +1,7 @@
 {
   "name": "express-less",
   "version": "1.0.0",
-  "description": "",
+  "description": "without debug",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -10,15 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/spadefaith/express-less.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/spadefaith/express-less/issues"
   },
   "homepage": "https://github.com/spadefaith/express-less#readme",
-  "keywords": [
-    "express-less"
-  ],
   "dependencies": {
     "accepts": "~1.3.8",
     "array-flatten": "1.1.1",
